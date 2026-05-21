@@ -1,1 +1,1 @@
-export const GOOGLE_DOC_URL = process.env.GOOGLE_DOC_URL
+export const GOOGLE_DOC_URL = process.env.VITE_GOOGLE_DOC_URL

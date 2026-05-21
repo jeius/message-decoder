@@ -1,0 +1,1 @@
+export const GOOGLE_DOC_URL = process.env.GOOGLE_DOC_URL
